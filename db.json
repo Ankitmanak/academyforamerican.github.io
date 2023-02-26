@@ -1,0 +1,43 @@
+{
+"posts": [
+  {
+    "id": 1,
+    "name": "IELTS PREPARTION",
+    "image": "./images/image/4.jpg",
+    "description":"IELTS preparation involves understanding the test format, how it is marked and then making a plan to achieve your desired score."
+  },
+  {
+  "id": 2,
+    "name": "SPOKEN ENGLISH",
+    "image": "./images/image/3.jpg",
+    "description":"The course is primarily designed for those students who are beginners in English.Here, one is taught to understand and speak in English."
+},
+{
+  "id": 3,
+    "name": "PTE",
+    "image": "./images/image/6.png",
+    "description":" PTE Academic assesses the real-life English skills you will need at university and living abroad. the PTE Academic, General and Young Learners."
+},
+{
+  "id": 4,
+    "name": "LIFE SKILLS",
+    "image": "./images/image/8.jpg",
+    "description":"Life skills programs aim to develop young peoples' abilities and motiva- tions to make use of all types of information.help them thrive in life and manage difficult situations with ease"
+},
+{
+  "id": 5,
+    "name": "IMMIGRATION",
+    "image": "./images/image/11.jpg",
+    "description":"immigration process through which individuals become permanent residents or citizens of another country. There was a migration of Jews from Europe to various parts of the world. "
+},
+{
+  "id": 6,
+    "name": "Basic Computer Course",
+    "image": "./images/image/12.jpg",
+    "description":"Basic Computer Courses are offered to impart basic knowledge of computers to people and improve their overall  basic training. These courses cover the basics of computers which will help everyone."
+}
+
+
+]
+
+}
